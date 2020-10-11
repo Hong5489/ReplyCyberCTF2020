@@ -57,6 +57,7 @@ First, we compare all words in the text file
 
 If is wrong and is one of the words in `words.txt`, we record the wrong character in the word
 
+We used [python script](solve.py) to solve it:
 ```py
 # Split each words
 ori = open("original.txt",'r').read().split()
