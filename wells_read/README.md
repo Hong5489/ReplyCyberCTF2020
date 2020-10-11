@@ -49,7 +49,7 @@ And the second file contain many english words, one word each line:
 
 Notice some of the words in the first file is written wrongly like `TGaveller`, `recondiEe`, `rGdiance` etc.
 
-I guess we need to combine all wrong characters together, then we should get the flag.
+I guess we need to **combine all wrong characters together, then we should get the flag.**
 
 I download the [original novel](http://www.gutenberg.org/files/35/35-0.txt) so we can compare it
 
